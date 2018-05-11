@@ -1,5 +1,5 @@
 # gpn18-binja-plugin-development
-Slides from my talk at the Gulasch Programming Night 18 about developing Binary Ninja plugins. Recording at: https://www.youtube.com/watch?v=L2xYV9WLVoE
+Slides from my talk at the Gulasch Programming Night 18 about developing Binary Ninja plugins. The idea was to supply everything that is needed to quickly get started with writing new plugins. Recording at: https://www.youtube.com/watch?v=L2xYV9WLVoE (Sorry german only for now. I initially wanted to give the talk in english but didn't feel well enough in the end. Might redo it again in englich soonish..).
 
 <!-- $theme: default -->
 <!-- footer: Benedikt Schmotzle -- Binary Ninja Plugin Development -- GPN18 -->
